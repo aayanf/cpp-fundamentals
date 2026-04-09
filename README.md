@@ -1,5 +1,5 @@
 # cpp-fundamentals
-A collection of beginner C++ programs while learning core programming concepts.
+A collection of beginner C++ programs demonstrating core programming concepts such as control flow, functions, input/output, and basic problem solving.
 
 | Program | Description |
 |---------|-------------|
@@ -7,6 +7,7 @@ A collection of beginner C++ programs while learning core programming concepts.
 | `kilo_to_miles.cpp` | Converts kilometers to miles |
 | `inches_to_feet.cpp` | Converts inches to feet |
 | `number_guessing_game.cpp` | Interactive number guessing game with input validation and attempt tracking |
+| `random_facts.cpp` | Generates random facts using switch statements and conditionals |
 
 Concepts Practiced:
 - User input and output (cin, cout)
@@ -22,3 +23,5 @@ Concepts Practiced:
 - Seeding randomness (srand(time(0)))
 - Program flow control (game loop + replay system)
 - Basic debugging/testing
+- Functions and modular program design
+- Switch statements for decision making
